@@ -1,4 +1,4 @@
 # COMP1243
-This is a test, nerd
+This is a test
 
 AAA AAA AAA AAA AAA AAA AAA ABCDCDCBA
